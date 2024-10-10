@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Baldwin",
+  "age": 50,
+  "address": {
+    "street": "Gabwo Road",
+    "city": "Dispanod",
+    "state": "MA",
+    "zip": "81563"
+  },
+  "contact": {
+    "phone": "(327) 660-1029",
+    "servicePhone": "800222828"
+  },
+  "birthday": "1973-12-10T01:09:21.668Z",
+  "ip": "151.79.128.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Zo eh denat bih forog bec nendew fo mon li duivav lonout pawzisij. Wereb laruzif lopvaw seheec it elefunud tanel luhfo jowfasre pues jufijil wicnu. Uroewe takfen idetu tosud naogmiw cuvcij nojfe duazafi pa tofeiva tev doesu estun ti va avuv.",
+    "bio": "Umi mih seesfu ah ami horto ditur mo wow daviji pibaw lifje tudukil cadupi to zak taatufer. Namwocag re adoabeguc da de evifuh amwibir facmeuz co gifcorec efugo ka fitoabe aze il nuvnimleb suzobog zordolbu. Raudola lehu ismuw zowceha ehe tu kuvjuwbe nemu zonmi efu buejdap buvav pujen. Cor bawerbez fora ju biglas ipihadveh urlopuzi wimgehpo wuhwa korudruw bamonkav heku aw lokjam."
+  },
+  "apiKey": "30b26086914fa9644053b059f28fd91ac031a52e6eb766f32871e554eeec4857",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
