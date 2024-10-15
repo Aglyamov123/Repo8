@@ -1,0 +1,26 @@
+{
+  "name": "Ada Sutton",
+  "age": 50,
+  "address": {
+    "street": "Emove Mill",
+    "city": "Nunekaf",
+    "state": "AL",
+    "zip": "01473"
+  },
+  "contact": {
+    "phone": "(369) 455-2901",
+    "servicePhone": "800154328"
+  },
+  "birthday": "1992-09-26T02:40:38.693Z",
+  "ip": "6.235.165.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Hef vetpij danva maz co egvibwi mome ebkigli nes suvuh totaduj eluvuvre voca tihvemve defpa danensev. Uhali dezbimzud genega fu vikotdan osim ubzecuh neberire dav irogaibi dopkili piate. Opwersej ji hof omaro pifjej jehki apzi hudjoc gogfiweg kozawwi ruz gi so panub ji jes.",
+    "bio": "Egeged rozcagon pin dul bituttub towlaj ushewan setdewgud roosu cogzuhvog feffof tah potalu di. Bufni inniguva ju utu nife cijub borokwuj wemo furcu aho tazapew uw gi. Kaec bu ugigo unwegob ugjum cub lukfuw kahipo hihirwo gujimu lo tugevu nefnontal."
+  },
+  "apiKey": "2a4839adc7c1d21b01b1eedf68f07310cf126d2084bc68439b2ba7dce960466e",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
