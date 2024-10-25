@@ -1,0 +1,26 @@
+{
+  "name": "Dean Daniels",
+  "age": 24,
+  "address": {
+    "street": "Ezhe Park",
+    "city": "Casleto",
+    "state": "NE",
+    "zip": "74308"
+  },
+  "contact": {
+    "phone": "(386) 267-4961",
+    "servicePhone": "800999435"
+  },
+  "birthday": "1993-08-19T09:09:44.453Z",
+  "ip": "81.117.156.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Feki fe ajobiled iro uzawuhel row ciniv akmonve jabeh tor cin uso elaivakov. Lew vonzoon ih no mub dazjazud mim ti wipesupaw mijcitgor uji dodeb pipfe ju. Movnadube vajol por ewke zu inafa tu ne bafoh hu hilfubfuh izehovob zov.",
+    "bio": "Joshub laj luija etguci umaopige sadranad kiz cuhe nuit fi tu on. Jiseoha ciejami ufi rudidva utmoj adtib pe dit longab ri ovvunak ki camluono egoda. Orizari wozidi bawu venawar mevfora en vup si wan la va vajbu vuiragiv kaslovacu sulir feta nisup azocu. Tikalfu petbuoga utvu enehinik nihe venduwleh pob bipilbu uhe riojigoh uj azagumje pu niplaweke ocogotcof."
+  },
+  "apiKey": "d4c86489c55c1138967f054af3ac73269a559c855eb2e4db7d19b9fa2850d866",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
