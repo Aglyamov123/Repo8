@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Morales",
+  "age": 31,
+  "address": {
+    "street": "Lelpe Point",
+    "city": "Vakedavos",
+    "state": "MI",
+    "zip": "56939"
+  },
+  "contact": {
+    "phone": "(832) 980-3505",
+    "servicePhone": "800691139"
+  },
+  "birthday": "1979-09-26T08:22:51.611Z",
+  "ip": "131.192.223.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Hubjoj pimo peswe ifzibbin ulvirpi ro rotec za hof filaro judoek jon withime ulupi do re. Vu habohigo cef bukpaseh nawov doshozmed kesufiahi femafhow subo do vom moche. Jeiru binjiptu mibhaccav niv jedus riraemo hepej pugihrop ofemanet to gihnip ha az taggos huweic nopor kabagobu piphu. Lob de tadopeez ginohefi kosovola jan icamedun ac nogoccih bajotvos zig lijut duti ne vowom cojop ewa.",
+    "bio": "Fi fijisen wi javkeka pa efuwu ko joncuzmim wosrom tu ledcel hoero holfu neldirsiz lomaga. Aru hefopa piek gize zennuj nune vel bus nurcajrer fatag ok umufemu te ka ko pewawman. Fekiluw suhdujak orobud ecre dad rit kefriga ko ahu wavcacoc kuv fufuz dojebde. Wohi june noved jacri vohari recpifip kom dopos eb arciuho gafuvo sieso vodiciv kab. Ihkovte ponit recfijwa dolakzi jihuaj gu ewzawni mez bis dam sozpi vitmuuwu zal toloj hakelfeb jiuv. Pi bazeme ha rulahlez wormah pemelop ipvukim ukha pacuk ge gofoghu mu vonwom vezacud anuaro ugmufis me."
+  },
+  "apiKey": "34f8d2720dbcc9ec5e329bbe27f71f54971f4e035293b07d0bc67197271ff9d9",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
