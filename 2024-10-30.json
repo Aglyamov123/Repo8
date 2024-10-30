@@ -1,0 +1,26 @@
+{
+  "name": "Laura Garrett",
+  "age": 46,
+  "address": {
+    "street": "Seza River",
+    "city": "Wagviis",
+    "state": "DE",
+    "zip": "66161"
+  },
+  "contact": {
+    "phone": "(453) 919-9351",
+    "servicePhone": "800119137"
+  },
+  "birthday": "1977-05-07T07:41:02.317Z",
+  "ip": "124.1.50.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Goprile geg veer fawweli vok dew wafrihop soptu baka du kucawu masroze. Fiba na ema nurarec rivas ecsaju oc ko umha duzujo sijcitmip nevaltu jiojvi fe nezu mudirkup. Tes ewuudu geh alawiza conwova melvi hosoh ecuiw esu suwije efto aso soigefez feuz nambi.",
+    "bio": "Lajdo uli meuduvek cucopzik jujiwoom purfizow go josju uspenico hupefsu lu lodok aleochas medte sajsaz er. Ariburu cocje rukjeduk dugemo iwa emep bipoeke pojo bogab suttodej utzikom pura petiw kiat wagef miszuso. Icamudfa bunfiw ojeikobi se cosapa ofubef piuze jako kiumi gu acfotbuk fovizneb vorgoh."
+  },
+  "apiKey": "58089e5aa0b8c53a783c3f57cbda676e89b28ed5cf7b9188ffe4094914cd4cef",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
