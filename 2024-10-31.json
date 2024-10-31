@@ -1,0 +1,26 @@
+{
+  "name": "Warren Walker",
+  "age": 34,
+  "address": {
+    "street": "Tivke Turnpike",
+    "city": "Ewvimwaz",
+    "state": "NY",
+    "zip": "57754"
+  },
+  "contact": {
+    "phone": "(763) 832-5987",
+    "servicePhone": "800151119"
+  },
+  "birthday": "2000-02-27T11:19:19.314Z",
+  "ip": "131.77.85.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Oged ego ina ibape pinabe gov kaiwe am oc dus ged geguwa. Kib oj duf gezdig ku nasizno je ci jog ub pivtiile ocwawbi zobjare jon zoik. Huketeaza tolpaw tovori tifpe emcobu kel rib me mohdak pi pi dazudog ekce ro jeba ril anegin kaw.",
+    "bio": "Ocomiz iku ogi kadolze gec tali ko hirdudobe wusez ze jipop kawow wamen. Ceztolvut wipaw geko ahajoisa mud rafuz ivvadab litepot pid varcodof tif powu seb gife. Ce nimne apo loego votude dir ficu decolmez uzihuc wu silak jefe lawazaoke ca bi kuidaiho um oj. No ok vi jekec olaata ku jaf nuzugi lopvelaz odnu hoszu abfugvo."
+  },
+  "apiKey": "7c00f87841b3ca013abe7265ad426590c1758baf2e2b1776f57699cbcdeed529",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
