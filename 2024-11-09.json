@@ -1,0 +1,26 @@
+{
+  "name": "Nell Singleton",
+  "age": 28,
+  "address": {
+    "street": "Bemem Way",
+    "city": "Cozjeraso",
+    "state": "FL",
+    "zip": "09132"
+  },
+  "contact": {
+    "phone": "(443) 898-6159",
+    "servicePhone": "800732589"
+  },
+  "birthday": "1997-07-22T10:56:53.841Z",
+  "ip": "193.43.114.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Cakuszo minmut kij dielefi fita me zeferal ni imbiv vaihepa fec filik. Tamef ut utovi hehzi opjod usfup cinobaici wulohbe lozdalza wicpok no ovsoap nollow cikidcu. Iho wevwufbov toko isi ofe toti gepem toju cetjejul modfiras cocwotwi ehipesug. Ged ruseilo nozaal sob uw pel uza me usidimfo ga weno magu giono pefsawon ful vunvean ragjuf. Kuf tolvefem iha zaluk ujevenjog vimin nahuz valoz jute nepru ez hezmu gevviik ubole kuc evduj. Raredu gili epa tac cone od zirozgu bocfic niw ogewoipi pe cikva mojew bunci mo amufif on fejro.",
+    "bio": "Go ti kob suemlit ki kok hune emuzovej re cevoja litzika bucjutfib sawewiv ses wa ta huokces. Ro rovgagozo omovocew awwegi ebbemec pum fof oshemmo zenumaj sohipco fa ma ilumo wewa bigauli vimtet if. Neuliwig rugag gukemuriw bi wovoico dev sokolcu govot ezgonev awpi kodpiasa lok ohe ukcugid gipun. Te fezlup mo ke ugfac can fiw up kekivke no kab ki."
+  },
+  "apiKey": "c5b193c7972d96d91fccb955ac529f7ca0522735818b8abb19518ab42d51c467",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
