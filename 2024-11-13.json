@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Pena",
+  "age": 35,
+  "address": {
+    "street": "Saoco Way",
+    "city": "Bafugo",
+    "state": "ND",
+    "zip": "49347"
+  },
+  "contact": {
+    "phone": "(966) 616-2763",
+    "servicePhone": "800139173"
+  },
+  "birthday": "1998-09-08T05:58:15.638Z",
+  "ip": "246.171.191.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Fajinaz ka wobti pij cih baw pegekla hijfut jirencel rebewha ema deh epvu lod hufwokcuk ab. Fu navge ponbigug dasku vosek vibhaz fug torulad erjuw oz voubvot kise. Ho bec osiza ad kitu edipsah dokuci zaezu tuzonikam as uma cih akafo upjo berbeep wikhueni vebfuv huocami.",
+    "bio": "Dure muawige amu sor vujju cibbe vimolib wakogha icanerti zinkov edijwiz tarumub. Cugenmo icujoko alditoc ku warlar jibudvov fojeet tirwirrav lipaus ip muzu hi petka daadsil. Kirzak sesbo kohib si caficiz utijuwdic hi po vecmi focgaaz mokbow owoez hus mikigu. Bavuca pi cen ip vi vi arivhu riczofci lupuk tuhev meze wervuan obu enurab."
+  },
+  "apiKey": "bb4aec794ebf1acbbf7105a3ce1b326e3438519bf6f8179ce2ad5b9eddaa40ba",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
