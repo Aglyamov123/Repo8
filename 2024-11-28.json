@@ -1,0 +1,26 @@
+{
+  "name": "Elsie Lambert",
+  "age": 65,
+  "address": {
+    "street": "Dujo Glen",
+    "city": "Cefikas",
+    "state": "SD",
+    "zip": "12569"
+  },
+  "contact": {
+    "phone": "(983) 781-1952",
+    "servicePhone": "800264295"
+  },
+  "birthday": "1990-02-27T03:53:33.596Z",
+  "ip": "58.167.187.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Wo da li ut dodzozba limuc varom mem cow wur na geumeniw vud inolu tadvij pif. Gaknil kikiz amocav epku wuor di bociko ilo mo mu honauha nezumovu he acij hotri fiebi vovku nuwihsu. Tuzmav si tuzuhes of voscusre ras fufuno vom wiz inepi mimka if jurowfo.",
+    "bio": "Mu lanvomve pelum gutcakwem rorepi gocugi sih efjojcu ne itmapo jag tir ho tedu. Ciudzu kipimeug juwosop fuope fawheab mug cavpekek nug nur sesfubuv pedapwo jufvitbew vafgugne ebowa fa zu gof aretoz. Hedeh tazsauza fuzpuves wacvuctib ibi fup ji ikubufbav epnib avusi la iz zisasmi. Mudwikba istog zu mocadpe bi genjaslug hij ca tir zom jupre zanata iwamup zez rupunlag douscem. As ohiruwtik fu togun jiubodug mave feblo enu ibafob odowijma kazecahe deahu dowze cu. Rowe runuuc ujouzza nichazje pe duwsigen am morpe ubu ugu azadewac uzmagit."
+  },
+  "apiKey": "8cec0ec88dc9fb6e939398387851cbf20a201a221c03cf094e745f04ed9cf40f",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
