@@ -1,0 +1,26 @@
+{
+  "name": "Beatrice Singleton",
+  "age": 63,
+  "address": {
+    "street": "Jehjil Circle",
+    "city": "Pilima",
+    "state": "NH",
+    "zip": "12971"
+  },
+  "contact": {
+    "phone": "(230) 793-6237",
+    "servicePhone": "800115294"
+  },
+  "birthday": "1971-07-24T10:36:09.520Z",
+  "ip": "133.219.170.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Okuzhi ike sidelwe hotuwu vocdirdap tip nozop asavubaf lap pibrecto avaemogut fomgomsif suvfuna on jebmi li egtohe. Kiwemvo ladme muglati ugu muwijpa jode nikvuh pofof vi cok ecto wor sajugput. Avlu ujoez ra rivaw soh awvipwo giegga lemaju itasemis ufeku resiwwe tedebeki na liov ni lijorofo ebodaifo.",
+    "bio": "Hitutehaz wigwaw zavja caflikuv erisan ucu ehe wu tobehe afi owno lunofac lozawo. Nepug zobesi detis ti diga gitbofu wamcos nabco neolovi piiwe tustab gitu acihovib anrogep niig ozni. Tazsuib uwuuplo acafada wugol iji amnijhim vetogo duwo vufde lujiatu ji wotgizip kis ke dike bezah tudipebu."
+  },
+  "apiKey": "caf1f76779e658d282ca9252bb139b02fa4b0665d830de441acbbf52d58c4409",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
