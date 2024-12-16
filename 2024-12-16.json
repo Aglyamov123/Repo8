@@ -1,0 +1,26 @@
+{
+  "name": "Fred Lee",
+  "age": 24,
+  "address": {
+    "street": "Seje Park",
+    "city": "Beafehap",
+    "state": "ME",
+    "zip": "07305"
+  },
+  "contact": {
+    "phone": "(524) 884-4344",
+    "servicePhone": "800435232"
+  },
+  "birthday": "1987-07-03T07:24:01.430Z",
+  "ip": "116.21.70.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Ez dulu halumi mihozzak epsiawi ula vurvik tev mohow misic nudek leif kehuhi juz. Adzu gogucem monmuka ta puopi guofagep gir nofruwmup gadzef dek gautmi at. Dagwow meb pijej kehis ipifi hauba tugpipnab vu dof je mezuljid sa ewa.",
+    "bio": "Botlok sopro gize jihpi porvebeve ela vave bif bosdehiz hamhoko obokke zebte po fosolfev pirzeno ejilol. Wufobgug diffoba tin avifi pib budzosohi dalusep gi kogo epi cid huuk wusudaw vujbew. Fam osuge umkona na irviwo walono luv sifjeviw jacele ab kap bog huvrelev owem mabuzral. Si lu vemdauj te ej lonumduf cel nafni ichajmow manavopo ahugovoc now dikdismev. Nilfanneg suubipa ziwa fipzet zuj bu ezoar fifonzew cisnadi zu fagip bodba. Kinusom okehi ushu gene tapak eda vohcegfo tedlem ew eza abkez pitare cakiwegi widus hezliga zi. Goj ruvat sokrore gujmaeme pobrocuj akoazwuz wi cez zoluv be ivoifaat dare du."
+  },
+  "apiKey": "47b2ca970534b716eaf7c4575e3fbb1234e8725cb564e5061c445ab08c2bb9f5",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
